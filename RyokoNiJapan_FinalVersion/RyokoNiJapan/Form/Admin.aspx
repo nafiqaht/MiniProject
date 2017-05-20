@@ -236,6 +236,8 @@
                                                             Gender</th>
                                                         <th runat="server">
                                                             DateBirth</th>
+                                                        <th runat="server">
+                                                            Afiqah Fav</th>
                                                     </tr>
                                                     <tr ID="itemPlaceholder" runat="server">
                                                     </tr>
